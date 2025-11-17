@@ -1,0 +1,12 @@
+tree_sitter==0.25.2
+tree_sitter_languages==1.10.2
+
+# For typical Python utilities
+numpy
+pandas
+
+# If you process JSON/yaml files
+pyyaml
+
+# If you interact with path files
+pathlib
